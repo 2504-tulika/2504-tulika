@@ -1,8 +1,12 @@
-# 👋 Hi, I’m Tulika Lunkad  
-💡 *Data Science & Analytics Engineer | Machine Learning | AI & Visualization Enthusiast*  
+<h1 align="center">👋 Hello there!! Fellow Coders, I'm <span style="color:#E63946;">Tulika Lunkad</span></h1>
 
-I’m passionate about transforming complex datasets into **actionable insights** through clean code, visualization, and intelligent ML systems.  
-Currently exploring **LLM-powered automation**, **data analytics**, and **AI for problem-solving** — blending technical depth with real-world impact.
+<h3 align="center">💡 Data Science & Analytics Engineer | Machine Learning | AI & Visualization Enthusiast</h3>
+
+<p align="center">
+I'm passionate about transforming complex datasets into <b>actionable insights</b> through clean code, visualization, and intelligent ML systems.  
+Currently exploring <b>LLM-powered automation</b>, <b>data analytics</b>, and <b>AI for problem-solving</b> — blending technical depth with real-world impact.
+<i>HAPPY CODING!!</i>
+</p>
 
 ---
 
@@ -16,7 +20,10 @@ Currently exploring **LLM-powered automation**, **data analytics**, and **AI for
 ---
 
 ## 🚀 Featured Projects
-- Check my GitHub profile for the same and connect with me for the same.
+
+Check my Github profile for details and also connect for the same...
+
+---
 
 ## 💼 Experience
 
@@ -31,24 +38,41 @@ Currently exploring **LLM-powered automation**, **data analytics**, and **AI for
 
 ---
 
-## 🧰 Tech Stack
-- **Programming and Tools:** Python, SQL, Scikit-learn, TensorFlow, Keras, LangChain, Power BI, Tableau
-- **Machine Learning & AI:** Classification, Regression, Clustering, NLP, LLM Integration, Prompt Engineering
-- **Data Science & Analytics:** Data Wrangling, Feature Engineering, EDA, Statistical Modeling, Predictive Analytics
-- **Database & Cloud:** MySQL, MongoDB, Google BigQuery, Flask APIs
+## ⚙️ Tech Stack
+
+| **Category** | **Technologies & Tools** |
+|:-------------:|:-------------------------|
+| 🐍 **Programming & Tools** | Python, SQL, Scikit-learn, TensorFlow, Keras, LangChain, Power BI, Tableau |
+| 🤖 **ML & AI** | Classification, Regression, Clustering, NLP, LLM Integration, Prompt Engineering |
+| 📊 **Data Science & Analytics** | Data Wrangling, Feature Engineering, EDA, Statistical Modeling, Predictive Analytics |
+| 🗄️ **Database & Cloud** | MySQL, MongoDB, Google BigQuery, Flask APIs |
+
+---
+
+## 🤝 Volunteering & Leadership
+- ✨ **Content Executive – Hult Prize BITD 2025**  
+  Contributed to event organization and digital content creation for the campus entrepreneurship challenge.  
+- 💻 **Volunteer – Google DevFest Bhilai 2023**  
+  Supported event logistics, community engagement, and technical setup coordination.
 
 ---
 
 ## 🌱 Currently Exploring
-- Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)  
-- Scalable AI-driven analytics dashboards  
-- Research in video-based anomaly detection  
+- 🔍 Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)  
+- 📈 Scalable AI-driven analytics dashboards  
+- 🎥 Research in video-based anomaly detection  
 
 ---
 
 ## 📫 Let’s Connect
-💼 [LinkedIn](https://www.linkedin.com/in/tulika-lunkad-9a6536255)  
-📧 [tulika2504@gmail.com](mailto:tulika2504@gmail.com)  
 
----
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/tulika-lunkad-9a6536255" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:tulika2504@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40px" alt="Gmail"/>
+  </a>
+</p>
