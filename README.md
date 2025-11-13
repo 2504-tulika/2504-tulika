@@ -35,13 +35,7 @@ Currently exploring **LLM-powered automation**, **data analytics**, and **AI for
 - **Programming and Tools:** Python, SQL, Scikit-learn, TensorFlow, Keras, LangChain, Power BI, Tableau
 - **Machine Learning & AI:** Classification, Regression, Clustering, NLP, LLM Integration, Prompt Engineering
 - **Data Science & Analytics:** Data Wrangling, Feature Engineering, EDA, Statistical Modeling, Predictive Analytics
-- **Database & Cloud:** MySQL, MongoDB, Google BigQuery, Flask APIs 
-
----
-
-## 📊 Certifications
-- 🧩 **Google Data Analytics Professional Certificate (Coursera)**  
-- 💼 **Data Analytics Virtual Internship – Accenture (Forage)**  
+- **Database & Cloud:** MySQL, MongoDB, Google BigQuery, Flask APIs
 
 ---
 
